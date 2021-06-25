@@ -1,0 +1,36 @@
+{
+    "members" : [
+        {
+            "id" : "001",
+            "lastname" : "Doe",
+            "firstname" : "John",
+            "mail" : "johndoe@gmail.com",
+            "formule" : "Mouette",
+            "password" : "$2y$10$zMnJSiIeaycWMJ.5WsZ2M.ap8s2fXXWtLBstpAXWRcOX1JfHpQQ5S"
+        },
+        {
+            "id" : "002",
+            "lastname" : "Test",
+            "firstname" : "Julien",
+            "mail" : "test@gmail.com",
+            "formule" : "Goeland",
+            "password" : "$2y$10$QRV/LpuI93/wx2lx0dCmGeb4iNi0K8DADeyvfxXcT3M1BRFukQLV6"
+        },
+        {
+            "id" : "003",
+            "lastname" : "Smith",
+            "firstname" : "David",
+            "mail" : "david@gmail.com",
+            "formule" : "Albatros",
+            "password" : "$2y$10$svuHYQbmiF.KMWbxu3GR5.tKYqSNzg8Nko1DIB.ksSwMKp5dTepFO"
+        },
+        {
+            "id" : "004",
+            "lastname" : "Demo",
+            "firstname" : "Karl",
+            "mail" : "demo",
+            "formule" : "Demo",
+            "password" : "$2y$10$XwXRolKgK0JUNAzEMYeoJ.AKL4X2IeX2I/lnPETjaHPrU78.CLtNy"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+
+.sizeBody{
+    height: 125vh;
+}
+
+.sizeCardUser{
+    height: 75vh;
+}
+
+.errorMessage{
+    color: red;
+    font-style: italic;
+}
+
+.sizeImg{
+    width: 35em;
+    height: 35em;
+}
+
+.sizeHeader{
+    height: 12vh;
+}
+
+.test{
+    height: 30vh;
+}
+
+#imgPreview {
+	width: 500px; 
+	max-height: 500px;
+	display: block;
+}
+
+.sizeInfo {
+    height: 410px;
+    width: 80%; 
+    border-radius: 21px 21px 0 0;
+}
+.sizeFooter {
+    height: 125vh;
+}
+
+@media screen and (max-width: 764px){
+    .sizeImg{
+        width: 100%;
+        height: auto;
+    }
+    .sizeInfo {
+        height: 570px;
+    }
+    .sizeFooter {
+        height: 220vh;
+    }
+    
+}
